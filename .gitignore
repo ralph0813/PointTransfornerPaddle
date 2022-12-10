@@ -1,0 +1,14 @@
+data/
+log/
+output/
+checkpoints/
+weights/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+__pycache__/
+.idea
+.DS_Store
+experiments/
+/experiments/
+/extensions/chamfer_dist/
+/extensions/emd/
